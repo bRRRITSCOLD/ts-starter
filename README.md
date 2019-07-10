@@ -1,3 +1,3 @@
-# ts-fastify-starter
+# ts-starter
 
-barebones node fastify typescript server
+barebones typescript starter
